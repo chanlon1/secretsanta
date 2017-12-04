@@ -8,6 +8,7 @@ Usage:
     * Current year in line 81
     * Winter formal date and location in line 83
     * Name of previous output file to be removed (in the event that a test was run)
+ 5. Once this is all good, run "python secretsanta.py".
 
 that's p much it, ya
     
